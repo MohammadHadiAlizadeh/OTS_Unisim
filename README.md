@@ -1,0 +1,1 @@
+A simple, minimal replica of an OTS for a single compressor with very limited features.it connects to a UniSim dynamic simulation using COM automation (win32com lib in Python) and provides a simple GUI (TKinter based) to start and stop the simulation, continuously monitor and log the inlet and outlet pressures over simulation time, and display real-time plots 
